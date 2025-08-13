@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Allow: /
+
+Sitemap: https://promocod-web.github.io/promocode/sitemap.xml
+
+Host: https://promocod-web.github.io/promocode/
